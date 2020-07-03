@@ -2,6 +2,9 @@
     <string name="app_name">Уголёк</string>
     <string name="Hello_World_Text">Уголёк приветствует!</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="first_list_hello">Первый фрагмент с выбором поставщика, возможно и единственный, хотя скорее всего нет</string>
+    <string name="first_list_hello">Выбрать поставщика угля</string>
     <string name="sec_list_hello">Второй фрагмент с выбором поставщика</string>
+    <string name="start_image_text">Start Image</string>
+    <string name="title_from_alert">Выбор поставщика</string>
+    <string name="message_from_alert">Выберите поставщика из представленных ниже:</string>
 </resources>
