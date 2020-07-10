@@ -3,5 +3,11 @@
     <string name="postavshik">Поставщик</string>
     <string name="marka">Марка Угля</string>
     <string name="price">Цена за тонну: XXX</string>
-    <string name="massatext">Требуемая масса:</string>
+    <string name="massatext">Требуемая масса(1–40 тонн):</string>
+    <string name="title_activity_google_map">Map</string>
+    <string name="setmapbuttontext">На карте</string>
+    <string name="defoultedinica">Введите требуемую массу</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addrestext">Введите адрес доставки</string>
 </resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainBlank">
+
+    <fragment
+        android:id="@+id/mainBlank"
+        android:name="com.example.ygolyok.MainBlank"
+        android:label="fragment_main_blank"
+        tools:layout="@layout/main_blank" >
+        <action
+            android:id="@+id/action_mainBlank_to_googleMap"
+            app:destination="@id/googleMap" />
+    </fragment>
+    <fragment
+        android:id="@+id/googleMap"
+        android:name="com.example.ygolyok.GoogleMap"
+        android:label="google_map"
+        tools:layout="@layout/google_map" />
+</navigation>
